@@ -42,7 +42,7 @@ public class PlayState extends JPanel implements ActionListener {
     ArrayList<Medi> med3 = new ArrayList<Medi>();
     ArrayList<NPC> npcarr = new ArrayList<NPC>();
     int win = 0;
-    int state = 2;
+    int state = 1;
 
     public int getstate() {
         return state;
